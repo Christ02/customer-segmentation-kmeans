@@ -1,7 +1,5 @@
 # Customer Segmentation using K-Means Clustering
 
-![K-Means Visualization](https://i.imgur.com/JhQy3Qp.png) *(example visualization placeholder)*
-
 ## Project Overview
 This project implements **K-Means clustering** to segment customers based on demographic and purchasing behavior patterns. The analysis helps businesses identify distinct customer groups for targeted marketing strategies.
 
@@ -51,12 +49,4 @@ scikit-learn
 matplotlib
 plotly
 ```
-
-## How to Use
-1. Clone repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run Jupyter notebook: `jupyter notebook K-Means-Customer-Seg.ipynb`
-
-## Results
-![Customer Clusters](https://i.imgur.com/5X9Qk7L.png) *(example results placeholder)*
 
